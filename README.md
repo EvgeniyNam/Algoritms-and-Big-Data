@@ -1,5 +1,15 @@
 # Algoritms-and-Big-Data
-Repository for study project
+
+Проект реализован в рамках учебного курса Algoritms and Big data.
+
+Здесь реализованы:
+- Data set cleaning
+- Feature engeneering and feature selection
+- Data analysis and dimension reduction
+- Clustering algorithms
+- Regression algorithms
+
+Более подробное описание ниже
 
 Файлы в репозитории разделены по логике выполнения работы над датасетом.
 
